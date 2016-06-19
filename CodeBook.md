@@ -1,10 +1,10 @@
 # Data source
 
 The data was originally obtained from
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 The download link is
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Feature Selection
 
@@ -18,9 +18,9 @@ Subsequently, the body accelerometer and gyroscope signals were used to obtain J
 
 This is a list of the signals mentioned above:
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
 tBodyAccMag
