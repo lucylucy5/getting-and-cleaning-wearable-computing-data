@@ -1,8 +1,12 @@
 # Data source
 
-The data was originally obtained from .. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+The data was originally obtained from
 
-The download link is .. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+
+The download link is
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Feature Selection
 
