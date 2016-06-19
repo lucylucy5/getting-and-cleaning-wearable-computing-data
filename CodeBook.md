@@ -57,7 +57,7 @@ The set of variables that were estimated from these signals are:
 * angle(): Angle between to vectors.
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
-*gravityMean
+* gravityMean
 * tBodyAccMean
 * tBodyAccJerkMean
 * tBodyGyroMean
